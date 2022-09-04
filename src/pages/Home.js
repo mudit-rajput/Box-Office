@@ -50,6 +50,7 @@ const Home = () => {
         placeholder="Search for something"
         onChange={onInputChange}
         onKeyDown={onKeyDown}
+        
         value={input}
       />
 
