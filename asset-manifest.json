@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mudit-rajput/Box-Office/static/css/main.b2586571.css",
-    "main.js": "/mudit-rajput/Box-Office/static/js/main.7b4970cf.js",
+    "main.js": "/mudit-rajput/Box-Office/static/js/main.f3a5ba3c.js",
     "static/js/787.6e354c4d.chunk.js": "/mudit-rajput/Box-Office/static/js/787.6e354c4d.chunk.js",
     "service-worker.js": "/mudit-rajput/Box-Office/service-worker.js",
     "static/media/not-found.png": "/mudit-rajput/Box-Office/static/media/not-found.298b98203c3825c61303.png",
     "index.html": "/mudit-rajput/Box-Office/index.html",
     "main.b2586571.css.map": "/mudit-rajput/Box-Office/static/css/main.b2586571.css.map",
-    "main.7b4970cf.js.map": "/mudit-rajput/Box-Office/static/js/main.7b4970cf.js.map",
+    "main.f3a5ba3c.js.map": "/mudit-rajput/Box-Office/static/js/main.f3a5ba3c.js.map",
     "787.6e354c4d.chunk.js.map": "/mudit-rajput/Box-Office/static/js/787.6e354c4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b2586571.css",
-    "static/js/main.7b4970cf.js"
+    "static/js/main.f3a5ba3c.js"
   ]
 }
