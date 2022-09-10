@@ -8,7 +8,6 @@ const LINKS = [
     {to: '/starred' , text: 'Starred'},
 ]
 const Navs = () => {
-
   const location = useLocation()
   return (
     <div>
